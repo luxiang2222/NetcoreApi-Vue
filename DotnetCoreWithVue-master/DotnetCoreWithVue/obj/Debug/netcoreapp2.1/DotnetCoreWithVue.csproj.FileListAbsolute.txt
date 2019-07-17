@@ -1,0 +1,15 @@
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\bin\Debug\netcoreapp2.1\DotnetCoreWithVue.deps.json
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\bin\Debug\netcoreapp2.1\DotnetCoreWithVue.runtimeconfig.json
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\bin\Debug\netcoreapp2.1\DotnetCoreWithVue.runtimeconfig.dev.json
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\bin\Debug\netcoreapp2.1\DotnetCoreWithVue.dll
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\bin\Debug\netcoreapp2.1\DotnetCoreWithVue.pdb
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.csprojAssemblyReference.cache
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.csproj.CoreCompileInputs.cache
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.RazorAssemblyInfo.cache
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.RazorAssemblyInfo.cs
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.AssemblyInfoInputs.cache
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.AssemblyInfo.cs
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.RazorTargetAssemblyInfo.cache
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.dll
+F:\DotnetCoreWithVue-master\DotnetCoreWithVue\obj\Debug\netcoreapp2.1\DotnetCoreWithVue.pdb

@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "element-ui@2.10.1",
+      "destination": "wwwroot/lib/element-ui/"
+    }
+  ]
+}
